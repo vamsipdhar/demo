@@ -8,3 +8,5 @@ Demo repo
 Here is some text
 
 > Quoted text.
+
+A link to [https://yahoo.com](Yahoo.com)
